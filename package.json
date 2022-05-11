@@ -1,5 +1,5 @@
 {
-  "name": "orixdb",
+  "name": "rixi",
   "version": "0.0.1",
   "description": "OrixDB driver for nodejs",
   "main": "main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orixdb/orixdb-js.git"
+    "url": "git+https://github.com/orixdb/rixi-js.git"
   },
   "keywords": [
     "orixdb",
@@ -19,7 +19,7 @@
   "author": "orixdb orixdb@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/orixdb/orixdb-js/issues"
+    "url": "https://github.com/orixdb/rixi-js/issues"
   },
-  "homepage": "https://github.com/orixdb/orixdb-js#readme"
+  "homepage": "https://github.com/orixdb/rixi-js#readme"
 }
